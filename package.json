@@ -1,0 +1,28 @@
+{
+  "name": "require-cson",
+  "main": "register",
+  "dependencies": {
+    "cson": "*"
+  },
+  "description": "Allows you to require .cson files just like json files: `require(\"anything.cson\")`",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javascriptismagic/require-cson.git"
+  },
+  "keywords": [
+    "cson",
+    "coffee",
+    "coffee-script",
+    "coffeescript",
+    "require",
+    "register",
+    "json"
+  ],
+  "author": "Brian <javascriptismagic@gmail.com>",
+  "license": "Public Domain (Unlicense)",
+  "bugs": {
+    "url": "https://github.com/javascriptismagic/require-cson/issues"
+  },
+  "homepage": "https://github.com/javascriptismagic/require-cson"
+}
